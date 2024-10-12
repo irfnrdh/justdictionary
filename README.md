@@ -1,0 +1,2 @@
+# justdictionary
+kitab kamus biasa
